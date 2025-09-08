@@ -1,0 +1,32 @@
+{
+    "id": "15fdf9a5-6060-49ae-af03-8b2d9dcf0099",
+    "name": "Test",
+    "publisher": "B2B",
+    "version": "1.0.0.1",
+    "brief": "Abdul",
+    "description": "",
+    "privacyStatement": "",
+    "EULA": "",
+    "help": "",
+    "url": "",
+    "logo": "",
+    "dependencies": [],
+    "screenshots": [],
+    "platform": "1.0.0.0",
+    "application": "25.5.30849.31109",
+    "idRanges": [
+        {
+            "from": 50000,
+            "to": 99999
+        }
+    ],
+    "resourceExposurePolicy": {
+        "allowDebugging": true,
+        "allowDownloadingSource": true,
+        "includeSourceInSymbolFile": true
+    },
+    "runtime": "14.0",
+    "features": [
+        "NoImplicitWith"
+    ]
+}
